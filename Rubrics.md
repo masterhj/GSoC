@@ -16,7 +16,7 @@ These metrics include,
 
 7. Alignment with our vision "Many Traditions, One Alaska" as established through the GSoC Proposal and GitHub Discussions.
 
-8. Strength of the applicant Bio and github
+8. Strength of the applicant Bio and github actions
 
 9. Ability to contribute and commit the specified time frame (i.e., 350 hours for the full-time project, 175 hours for the medium projects, and 90 hours for small projects).
 
